@@ -1,5 +1,5 @@
 # BusLight
-<h1>Welcome To BusLight Project.</h1>
+<p1>Welcome To BusLight Project.</p1>
 <h1>What is the aim of this project?</h1>
 <p1>The goal is to give priority to public busses.</p1>
 <h1>How does it work?</h1>
